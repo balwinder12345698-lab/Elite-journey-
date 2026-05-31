@@ -1,0 +1,23 @@
+{
+  "name": "Elite Journey",
+  "short_name": "Elite Journey",
+  "description": "Daily habit and discipline tracker",
+  "start_url": "/Elite-journey-/",
+  "scope": "/Elite-journey-/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/000000/00e676?text=EJ",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/000000/00e676?text=EJ",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
